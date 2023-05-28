@@ -52,7 +52,7 @@ Este Projeto consiste na criação de uma app para calcular a média de notas de
 <br>
 
 ## 💻 Demonstração
-Para visualizar uma prévia do projeto <a href="#" target="_blank"><b>clique aqui</b></a>
+Para visualizar uma prévia do projeto <a href="https://calculadora-de-medias-nine.vercel.app/" target="_blank"><b>clique aqui</b></a>
 
 <br>
 
